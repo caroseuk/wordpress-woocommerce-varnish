@@ -1,6 +1,6 @@
 ## Synopsis
 
-This is an example Varnish 4 configuration file, that caters for Wordpress/Woocommerce. The configuration assumes that Apache backend is running at 127.0.0.1:80
+This is an example Varnish 4 configuration file, that caters for Wordpress/Woocommerce. The configuration assumes that Apache backend is running at 127.0.0.1:8080
 
 If this is not the case, then ammend this to cater for seperate server locations.
 
